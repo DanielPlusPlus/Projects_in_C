@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1635949177 source:c:\users\pc\desktop\materia³y\laboratoria\podstawy programowania 1\.projekty w c\lab_4_zadanie_5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

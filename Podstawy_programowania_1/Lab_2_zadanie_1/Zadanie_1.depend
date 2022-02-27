@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1634732508 source:c:\users\pc\desktop\matera³y\laboratoria\podstawy programowania 1\projekty w c\zadanie_1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1637754979 source:c:\users\pc\desktop\materia³y\laboratoria\podstawy programowania 1\.projekty w c\lab_2_zadanie_1\main.c
+	<stdio.h>
+
+1637755214 source:c:\users\pc\desktop\materia³y\i semestr\laboratoria\podstawy programowania 1\.projekty w c\lab_2_zadanie_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
