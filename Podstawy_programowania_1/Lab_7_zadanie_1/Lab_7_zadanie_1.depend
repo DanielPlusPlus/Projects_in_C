@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1641988321 source:c:\users\pc\desktop\materia³y\laboratoria\podstawy programowania 1\.projekty w c\lab_7_zadanie_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
